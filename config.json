@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersalculate",
+        "uuid": 2119104,
+        "checksum": "pseq1g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
